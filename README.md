@@ -120,7 +120,3 @@ You can use size, scale and rotate transform [alignment](https://docs.flutter.io
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-## License
-
-[BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause)
